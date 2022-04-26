@@ -1,7 +1,7 @@
 # Quadratic-Sieve
 C Implementation of the Quadratic Sieve Algorithm
 
-## How to Compile
+## How to Compile & Run
 
 ```
 gcc -O3 main.c quad_sieve.c -o quad_sieve.out -lgmp -lm && ./quad_sieve.out
